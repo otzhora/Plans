@@ -10,16 +10,26 @@ What to learn:
 
 # Milestones 
 
-Begin milestone 1: finish intro to data science course from Yandex 
-Begin milestone 2: finish Algorithmic toolbox 
-Begin milestone 3: reach 70 wpm
-Medium milestone 1: finish standup-bot
-Medium milestone 2: reach 80 wpm
-Medium milestone 3: Finish courses on Big Data from Yandex 
-Hard milestone 1: reach 90 wpm
-Hard milestone 2: finish Andrew Ng specialization 
-Final milestone 1: find a job as a junior Data Scientist 
-Final milestone 2: reach 100 wpm
+## Soft milestones
+
+* finish intro to data science course from Yandex 
+* finish Algorithmic toolbox 
+* reach 70 wpm
+
+## Medium milestones
+
+* finish standup-bot
+* reach 80 wpm
+* Finish courses on Big Data from Yandex 
+
+## Hard milestones
+* reach 90 wpm
+* finish Andrew Ng specialization 
+
+## Final milestones
+
+* find a job as a junior Data Scientist 
+* reach 100 wpm
 
 # Deadlines 
 
