@@ -1,6 +1,7 @@
 # Study plan
 
 Goal: learn Data Science and become a better developer
+<br/>
 What to learn: 
 1) Data Science (classical machine learning, probability theory, neural networks, and Big Data) 
 2) Algorithms and Data Structures 
@@ -25,6 +26,7 @@ What to learn:
 ## Hard milestones
 * reach 90 wpm
 * finish Andrew Ng specialization 
+* finish Data Structures and Algorithms specialization
 
 ## Final milestones
 
