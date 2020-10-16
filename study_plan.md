@@ -36,15 +36,13 @@ What to learn:
 # Deadlines 
 
 18.10 -- demo 1
-1) Plan for standup-bot written
+1) Plan for standup-bot written [X]
 2) Proper storage for standup-bot
 3) Proper config for standup-bot
-4) Intro to data science finished 
+4) Intro to data science finished [X]
 5) Dynamic programming first week finished 
-6) Average typing speed 60 wpm 
-7) Plan for hack (including tech plan)
-8) Plan for demo 3 written 
-9) Good course on advanced python found 
+6) Average typing speed 60 wpm [X]
+7) Plan for hack (including tech plan) [X]
 
 1.11 -- demo 2
 1) Make sure that standup-bot work on multiple servers 
