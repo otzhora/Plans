@@ -4,7 +4,6 @@ Make useful and convinient bot for our discrord server
 
 # Current problems
 
-* It has no storage
 * It's really hard to configure 
 
 # Ideas 

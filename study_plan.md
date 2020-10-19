@@ -13,15 +13,15 @@ What to learn:
 
 ## Soft milestones
 
-* finish intro to data science course from Yandex 
+* finish intro to data science course from Yandex [X]
 * finish Algorithmic toolbox 
 * reach 70 wpm
 
 ## Medium milestones
 
 * finish standup-bot
+* Hands-on ml finished
 * reach 80 wpm
-* Finish courses on Big Data from Yandex 
 
 ## Hard milestones
 * reach 90 wpm
@@ -33,25 +33,29 @@ What to learn:
 * find a job as a junior Data Scientist 
 * reach 100 wpm
 
+## Removed milestones
+
+* Finish courses on Big Data from Yandex - I've been told that on my level this is not a priority
+
 # Deadlines 
 
 18.10 -- demo 1
 1) Plan for standup-bot written [X]
-2) Proper storage for standup-bot
-3) Proper config for standup-bot
-4) Intro to data science finished [X]
-5) Dynamic programming first week finished 
-6) Average typing speed 60 wpm [X]
-7) Plan for hack (including tech plan) [X]
+2) Proper storage for standup-bot [X]
+3) Intro to data science finished [X]
+4) Dynamic programming first week finished [X] 
+5) Average typing speed 60 wpm [X]
+6) Plan for hack (including tech plan) [X]
 
 1.11 -- demo 2
-1) Make sure that standup-bot work on multiple servers 
-2) Standup-bot should be configurable through dm 
-3) One course on Big Data finished
-4) Half of the first course of Andrew Ng finished
-5) Average typing speed 70 wpm 
-6) Algorithmic toolbox finished
+1) Average typing speed 60 wpm on any text 
+2) Algorithmic toolbox finished
+3) Data Structures course 4 weeks 
+4) Part on sklearn on Hands-on ml 
+5) Tech plan for bot
+6) Custom questions in bot and logging of standups
 
 15.11 -- demo 3 
+1) Half of the first course of Andrew Ng finished
 ** Not written yet ** 
 
