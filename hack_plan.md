@@ -34,9 +34,9 @@
 
 1. работа с модулями проверки кода
    - for demo we will have fixed structure and python only
-   <br>
-     ![img](/images/structure_example.png)
-   <br>
+     <br>
+     ![img](./images/structure_example.png)
+     <br>
    - we put student code in folder src and run launch.sh, capture its output and return it
 2. работа с источниками кода
    - getting code from github (for students)
