@@ -54,12 +54,12 @@ What to learn:
 
 1. Algorithmic toolbox finished [X]
 
-   15.11 -- demo 3
+15.11 -- demo 3
 
 1. Average typing speed 60 wpm on any text
-1. Data Structures course 4 weeks
-1. Part on sklearn on Hands-on ml
-1. Tech plan for bot
-1. Custom questions in bot and logging of standups
+2. Data Structures course 3 weeks
+3. Part on sklearn on Hands-on ml
+4. Tasks for uni 
+5. Kaggle's micro-courses
 
 ** Not written yet **
